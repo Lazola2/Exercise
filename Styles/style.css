@@ -10,6 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(92, 89, 89);
 }
 
 .calculator {
@@ -20,6 +21,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    box-shadow: 0 0 15px 3px black;
 }
 
 .calculator #screen {
